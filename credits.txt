@@ -1,0 +1,4 @@
+1. https://www.geeksforgeeks.org/socket-programming-python/
+2. https://docs.python.org/3/library/socket.html
+3. https://github.com/TiagoValdrich/python-socket-chat
+4. https://ruslanspivak.com/lsbaws-part1/
